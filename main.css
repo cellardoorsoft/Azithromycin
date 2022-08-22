@@ -1,0 +1,13 @@
+.img img{
+    width: 30%;
+    margin: 10px;
+}
+
+.container p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.container1 p{
+    font-style: italic;   
+}
+
